@@ -1,0 +1,7 @@
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\obj\Debug\3enRayas.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\obj\Debug\3enRayas.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\bin\Debug\3enRayas.exe.config
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\bin\Debug\3enRayas.exe
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\bin\Debug\3enRayas.pdb
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\obj\Debug\3enRayas.exe
+C:\Users\Alfonso-PC\Desktop\DAW\PROGRAMACION\PRACTICAS\3enRayas\3enRayas\obj\Debug\3enRayas.pdb
